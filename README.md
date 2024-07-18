@@ -1,4 +1,4 @@
-# SalamanderWinformMatch
+# WinformMatch
 Winform版的连连看游戏
 
 # 主界面
